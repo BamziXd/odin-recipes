@@ -1,1 +1,2 @@
 # odin-recipes
+alright so most of the new things i learned were about git and github, all of the html (and probably most of the css lessons that i will read in the future lessons) will probably already know them because i have studied a good amount of html and css the things i learned about git were the most interesting and will probably get to know more stuff about git, github and i cant wait to learn about java html and css and if the odin project provide lessons about react that would be nice 
